@@ -1,2 +1,2 @@
-# hangman
-First vergin code
+# Hangman
+First code
