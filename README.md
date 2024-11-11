@@ -1,2 +1,2 @@
 # Hangman
-First code
+First Python-only game project
